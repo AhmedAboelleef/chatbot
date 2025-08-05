@@ -1,0 +1,18 @@
+{
+
+  "token": "ur token",
+
+  "prefix": "!",
+
+  "groqApiKey": "groq key",
+
+  "ownerId": "ur id",
+
+  "shapesApiKey": "shapes key",
+
+  "geminiApiKey": "gemini key (optional)",
+
+  "defaultApi": "groq",
+    "shapesImageModel": "shapesinc/devrock" 
+
+}
